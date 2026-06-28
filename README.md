@@ -12,7 +12,7 @@ Everything fits together using simple slide-in supports, it may not be perfectly
 
 It has 3 separate printed pieces, and includes supports for the pcb
 
-<img src=assets/cad.png alt="Schematic" width="500"/>
+![Alternative Text](assets/cad.png)
 
 Made in Fusion360. Just learned it lol
 
