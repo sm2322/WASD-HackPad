@@ -13,6 +13,7 @@ Everything fits together using simple slide-in supports, it may not be perfectly
 It has 3 separate printed pieces, and includes supports for the pcb
 
 <img width="835" height="537" alt="" src="https://github.com/user-attachments/assets/8246841d-5c46-4e31-befd-f8898834118a" />
+<img width="481" height="424" alt="Screenshot 2026-06-27 at 8 10 21 PM" src="https://github.com/user-attachments/assets/4235017e-c077-41ec-9aca-16eca7d87d83" />
 
 
 Made in Fusion360. Just learned it lol
